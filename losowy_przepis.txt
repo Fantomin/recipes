@@ -1,1 +1,1 @@
-tutaj jest losowy przepis
+tutaj jest losowy przepis - zmiana wykonana na git hubie
